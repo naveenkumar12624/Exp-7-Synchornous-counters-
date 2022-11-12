@@ -61,7 +61,7 @@ End the module
 
 ## PROGRAM: 
 ```
-Program for flipflops  and verify its truth table in quartus using Verilog programming.
+Program for Synchornous up and down counter.
 Developed by: S.NAVEEN KUMAR
 RegisterNumber:  212221240033
 ```
